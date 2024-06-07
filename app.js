@@ -1,5 +1,5 @@
 const fun = () => {
-    console.log('hey it works!')
+  console.log('hey it works!')
 }
 
 fun()
